@@ -26,15 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gitwithavi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gitwithavi&theme=tokyonight&hide_border=false" />
-</p>
-
----
-
 ## 📌 Featured Projects
 
 | Project | Description |
@@ -48,9 +39,9 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" /></a>
-  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel" /></a>
+  <a href="https://linkedin.com/in/codewithavi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
+  <a href="mailto:codeingwithavi@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" /></a>
+  <a href="https://codewithavi.com"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel" /></a>
 </p>
 
 ---
