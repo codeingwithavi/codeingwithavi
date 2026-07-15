@@ -96,22 +96,6 @@ Freelance engineer shipping for **private client orgs** — full stack from comm
 
 ---
 
-## DevOps & delivery
-
-```text
-Developer commit → GitHub (private org) → GitHub Actions
-    ├── Vercel (web)     — Hobby-plan CI deploys
-    ├── Railway (API)    — containers + cron endpoints
-    ├── EAS (mobile)     — App Store / Play Store builds
-    └── Supabase / Redis — data layer & rate limits
-```
-
-- Monorepo CI with path filters and concurrency controls  
-- Freelancer-friendly deploys on client Vercel Hobby accounts  
-- Scheduled jobs, backups, and production health checks  
-
----
-
 ## GitHub achievements
 
 Official badges (**Pull Shark**, **Quickdraw**, **Pair Extraordinaire**, etc.) unlock from merges and collaboration — not from README images.
