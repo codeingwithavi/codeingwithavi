@@ -1,96 +1,113 @@
-<h1 align="center">Hi 👋, I'm Avinash Kumar</h1>
-<h3 align="center">Freelance Full-Stack Developer · React Native · Next.js · Node</h3>
+<div align="center">
+
+# Hi, I'm Avinash Kumar
+
+### Software Developer · DevOps Engineer · Systems Engineer
+
+*I design, build, and ship production systems — mobile, web, APIs, and the pipelines that deploy them.*
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Developer;DevOps+%26+CI%2FCD;Systems+%26+Cloud+Engineering;React+Native+%2B+Next.js;Production+at+Scale" alt="Typing animation" />
+
+<br />
+
+<a href="mailto:codeingwithavi@gmail.com"><img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/codewithavi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://codewithavi.com"><img src="https://img.shields.io/badge/Portfolio-codewithavi.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+
+</div>
+
+---
+
+## What I do
+
+| Role | Focus |
+|------|--------|
+| **Software Developer** | TypeScript, React Native, Next.js, Node.js, REST APIs, PostgreSQL |
+| **DevOps Engineer** | GitHub Actions, Vercel, Railway, EAS, cron jobs, secrets, zero-downtime deploys |
+| **Systems Engineer** | Multi-tenant architecture, Redis, observability, backups, production hardening |
+
+Freelance engineer shipping for **private client orgs** — full stack from commit to production.
+
+---
+
+## Current clients
+
+| Client | Domain | What I work on |
+|--------|--------|----------------|
+| **Taniyur** | [taniyur.com](https://taniyur.com) | Society SaaS — mobile, web, API, Railway, Vercel CI/CD |
+| **Crave2Explore** | Private engagement | Travel & booking platforms — full-stack delivery |
+| **Samedhya Wellness** | Private engagement | Wellness product — web, API, cloud deploys |
+
+*Client code lives in private repositories. Contributions show on my graph as private activity.*
+
+---
+
+## GitHub activity
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=TypeScript%20%26%20React%20Native;Next.js%20App%20Router;Expo%20%2B%20EAS%20Releases;SaaS%20%26%20Multi-tenant%20APIs;Always%20shipping%20production%20code" alt="Typing SVG" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=codeingwithavi&show_icons=true&theme=tokyo_night&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" height="170" />
+  <img src="https://streak-stats.demolab.com/?user=codeingwithavi&theme=tokyo_night&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" height="170" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/codeingwithavi"><img src="https://img.shields.io/github/followers/codeingwithavi?style=social" alt="GitHub followers" /></a>
-  <a href="mailto:codeingwithavi@gmail.com"><img src="https://img.shields.io/badge/Email-codeingwithavi@gmail.com-EA4335?logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/codewithavi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-  <a href="https://codewithavi.com"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=codeingwithavi&layout=compact&theme=tokyo_night&hide_border=true&count_private=true&langs_count=8" alt="Top languages" height="170" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeingwithavi&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeingwithavi&theme=tokyo-night&hide_border=true" alt="GitHub streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeingwithavi&layout=compact&theme=tokyo-night&hide_border=true&count_private=true" alt="Top languages" />
-</p>
-
-> **Tip:** Enable [Include private contributions](https://github.com/settings/profile) on your profile so client work on private repos shows on the graph.
-
----
-
-## 🧑‍💻 About Me
-
-- 🔭 Freelance developer — **production SaaS**, society/community platforms, mobile + web
-- 🏗 Stack I ship: **Expo / React Native**, **Next.js**, **Prisma**, **PostgreSQL**, **Railway**, **Vercel**, **GitHub Actions**
-- 💬 Ask me about **monorepos**, **EAS builds**, **RBAC APIs**, **CI/CD on client org repos**
-- 🎯 Focus: reliable deploys, clean TypeScript, freelancer-friendly Git workflows
-- 📫 **codeingwithavi@gmail.com**
-
----
-
-## 🛠 Tech Stack
+## Tech stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,prisma,tailwind,git,github,docker,vercel,firebase" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,prisma,tailwind,git,github,docker,linux,nginx,vercel,firebase" />
 </div>
 
 <br />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mobile-Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cache-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </p>
 
 ---
 
-## 📌 Featured Work
+## DevOps & delivery
 
-| Area | What I build |
-|------|----------------|
-| 📱 **Mobile** | Expo / React Native apps, EAS production releases, push, secure storage |
-| 🌐 **Web** | Next.js App Router, committee dashboards, marketing sites |
-| ⚙️ **API** | Multi-tenant Node APIs, Prisma, Redis rate limits, cron automation |
-| 🚀 **DevOps** | GitHub Actions deploys, Vercel Hobby workarounds, Railway API hosting |
+```text
+Developer commit → GitHub (private org) → GitHub Actions
+    ├── Vercel (web)     — Hobby-plan CI deploys
+    ├── Railway (API)    — containers + cron endpoints
+    ├── EAS (mobile)     — App Store / Play Store builds
+    └── Supabase / Redis — data layer & rate limits
+```
 
----
-
-## 🏆 GitHub Achievements
-
-Achievements (Pull Shark, Pair Extraordinaire, etc.) unlock from **real activity** — merged PRs, co-authored commits, and consistent contributions.
-
-**My setup for freelance + profile credit:**
-
-1. Commit with `codeingwithavi@gmail.com`
-2. Push to client org repos → private contribution squares
-3. Optional private mirror → `codeingwithavi/taniyur`
-4. Signed commits for the **Verified** badge
+- Monorepo CI with path filters and concurrency controls  
+- Freelancer-friendly deploys on client Vercel Hobby accounts  
+- Scheduled jobs, backups, and production health checks  
 
 ---
 
-## 🔗 Connect
+## GitHub achievements
 
-<p align="center">
-  <a href="https://linkedin.com/in/codewithavi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:codeingwithavi@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" /></a>
-</p>
+Official badges (**Pull Shark**, **Quickdraw**, **Pair Extraordinaire**, etc.) unlock from merges and collaboration — not from README images.
+
+**Building toward them:**
+- Merge pull requests on client repos (counts toward **Pull Shark**)
+- Co-authored commits for pair work
+- Signed commits for the **Verified** badge
+- Private contributions enabled on profile
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codeingwithavi&style=flat-square&color=blue" alt="Profile views" />
-</p>
+## Connect
+
+<div align="center">
+
+📧 **codeingwithavi@gmail.com** · 🌐 **codewithavi.com** · 💼 **Freelance — open to remote**
+
+<img src="https://komarev.com/ghpvc/?username=codeingwithavi&label=Profile%20views&color=0ea5e9&style=flat-square" alt="Profile views" />
+
+</div>
