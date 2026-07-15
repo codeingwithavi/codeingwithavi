@@ -44,13 +44,35 @@ Freelance engineer shipping for **private client orgs** — full stack from comm
 
 ## GitHub activity
 
+<!-- Third-party "readme stats" APIs cannot read private repos and often fail to load (400KB+ images).
+     Use shields + compact SVG + streak instead. Full graph with private work is on the profile above. -->
+
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=codeingwithavi&show_icons=true&theme=tokyo_night&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" height="170" />
-  <img src="https://streak-stats.demolab.com/?user=codeingwithavi&theme=tokyo_night&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" height="170" />
+  <img src="https://img.shields.io/badge/Contributions-495%2B-0d1117?style=for-the-badge&logo=github&logoColor=22c55e" alt="495+ contributions" />
+  <img src="https://img.shields.io/badge/Active_clients-3-0d1117?style=for-the-badge&logo=target&logoColor=38bdf8" alt="3 clients" />
+  <img src="https://img.shields.io/badge/Private_work-On_profile_graph-0d1117?style=for-the-badge&logo=lock&logoColor=a78bfa" alt="Private contributions enabled" />
+  <img src="https://img.shields.io/badge/Since-Aug_2022-0d1117?style=for-the-badge&logo=clock&logoColor=fbbf24" alt="Since 2022" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=codeingwithavi&layout=compact&theme=tokyo_night&hide_border=true&count_private=true&langs_count=8" alt="Top languages" height="170" />
+  <img src="https://ssr-contributions-svg.vercel.app/_/codeingwithavi?chart=contributions&format=svg&width=900&radius=3" alt="Public contribution graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=codeingwithavi&theme=github-dark&hide_border=true&background=0D1117&ring=22C55E&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=38BDF8&dates=8B949E" alt="GitHub streak" width="440" />
+</p>
+
+<p align="center">
+  <b>Languages I ship in production</b><br />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776A9?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+</p>
+
+<p align="center">
+  <sub>Chart shows <b>public</b> footprint only · Taniyur, Crave2Explore & Samedhya Wellness work appears on the <b>private contribution graph</b> at the top of this profile.</sub>
 </p>
 
 ---
