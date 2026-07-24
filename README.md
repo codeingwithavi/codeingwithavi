@@ -30,13 +30,13 @@ Freelance engineer shipping for **private client orgs** — full stack from comm
 
 ---
 
-## Current clients
+## Projects
 
-| Client | Domain | What I work on |
+| Projects | Domain | What I work on |
 |--------|--------|----------------|
 | **Taniyur** | [taniyur.com](https://taniyur.com) | Society SaaS — mobile, web, API, Railway, Vercel CI/CD |
-| **Crave2Explore** | Private engagement | Travel & booking platforms — full-stack delivery |
-| **Samedhya Wellness** | Private engagement | Wellness product — web, API, cloud deploys |
+| **Crave2Explore** | [crave2explore.com](https://crave2explore.com) | Travel & booking platforms — full-stack delivery |
+| **Samedhya Wellness** | [samedhyawellness.com](https://samedhyawellness.com) | Wellness product — web, API, cloud deploys |
 
 *Client code lives in private repositories. Contributions show on my graph as private activity.*
 
